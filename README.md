@@ -20,7 +20,7 @@ Developed an interactive Power BI dashboard to analyze Blinkit sales performance
 - Improved decision-making using visual analytics
 
 ## 📷 Dashboard Preview
-(Add your dashboard screenshot here)
+![Dashboard Preview](dashboard.png)
 
 ## 📁 Project Files
 - Power BI Dashboard (.pbix)
